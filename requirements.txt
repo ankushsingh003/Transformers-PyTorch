@@ -1,0 +1,5 @@
+# Minimal requirements for Deep Learning from Scratch
+# All Transformer architectures, training loops, normalization layers,
+# and reproduction scripts are built without high-level libraries.
+
+torch>=2.0.0

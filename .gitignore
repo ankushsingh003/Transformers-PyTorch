@@ -1,0 +1,18 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Checkpoints and large binaries
+checkpoints/*.pt
+*.tmp
+
+# Raw downloaded datasets
+data/tinyshakespeare.txt
+
+# Environment and IDE
+.env
+venv/
+.idea/
+.vscode/
